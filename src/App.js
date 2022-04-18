@@ -5,6 +5,8 @@ import Email from './Components/Email';
 import Contact from './Components/Contact';
 import Personal from './Components/Personal';
 import Me from './Components/Me';
+import Place from './Components/Place'
+
 function App() {
   return (
     <div className="App">
@@ -13,9 +15,13 @@ function App() {
     <Email />
     <Contact /> 
     <Personal />
-    <Me />
+    <Me /> 
+    <Place /> 
     </div>
   );
 }
 
 export default App;
+
+
+
