@@ -1,23 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Gene from './Components/Gene';
+import Address from './Components/Address';
+import Email from './Components/Email';
+import Contact from './Components/Contact';
+import Personal from './Components/Personal';
+import Me from './Components/Me';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <Gene /> 
+    <Address />
+    <Email />
+    <Contact /> 
+    <Personal />
+    <Me />
     </div>
   );
 }
