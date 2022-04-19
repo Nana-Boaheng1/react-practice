@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nana-Boaheng1/react-practice/static/css/main.e309c042.css",
+    "main.js": "/Nana-Boaheng1/react-practice/static/js/main.af35b3d2.js",
+    "index.html": "/Nana-Boaheng1/react-practice/index.html",
+    "main.e309c042.css.map": "/Nana-Boaheng1/react-practice/static/css/main.e309c042.css.map",
+    "main.af35b3d2.js.map": "/Nana-Boaheng1/react-practice/static/js/main.af35b3d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e309c042.css",
+    "static/js/main.af35b3d2.js"
+  ]
+}
